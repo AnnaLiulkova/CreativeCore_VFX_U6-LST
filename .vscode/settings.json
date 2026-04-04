@@ -52,5 +52,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "CreativeCore_VFX_U6.sln"
+    "dotnet.defaultSolution": "CreativeCore_VFX_U6-LST.slnx"
 }
